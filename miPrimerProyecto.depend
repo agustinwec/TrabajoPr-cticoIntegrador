@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1748627436 source:c:\users\profesor\desktop\miprimerproyecto\main.cpp
+	<iostream>
+	<ctime>
+	"menu.h"
+
+1748625856 c:\users\profesor\desktop\miprimerproyecto\menu.h
+
+1748627038 source:c:\users\profesor\desktop\miprimerproyecto\jugar.cpp
+	<iostream>
+	"jugar.h"
+
+1748629147 c:\users\profesor\desktop\miprimerproyecto\jugar.h
+
+1748627121 source:c:\users\profesor\desktop\miprimerproyecto\menu.cpp
+	<iostream>
+	"menu.h"
+	"jugar.h"
+
+1751240884 source:c:\users\danil\downloads\miprimerproyecto\miprimerproyecto\jugar.cpp
+	<iostream>
+	"jugar.h"
+
+1751243474 c:\users\danil\downloads\miprimerproyecto\miprimerproyecto\jugar.h
+
+1751236496 source:c:\users\danil\downloads\miprimerproyecto\miprimerproyecto\main.cpp
+	<iostream>
+	<ctime>
+	"menu.h"
+
+1751236496 c:\users\danil\downloads\miprimerproyecto\miprimerproyecto\menu.h
+
+1751240797 source:c:\users\danil\downloads\miprimerproyecto\miprimerproyecto\menu.cpp
+	<iostream>
+	"menu.h"
+	"jugar.h"
+
+1751312998 source:c:\users\biblioteca-01\desktop\nueva carpeta\juego\jugar.cpp
+	<iostream>
+	"jugar.h"
+
+1751308136 c:\users\biblioteca-01\desktop\nueva carpeta\juego\jugar.h
+
+1751302013 source:c:\users\biblioteca-01\desktop\nueva carpeta\juego\main.cpp
+	<iostream>
+	<ctime>
+	"menu.h"
+
+1751302013 c:\users\biblioteca-01\desktop\nueva carpeta\juego\menu.h
+
+1751309210 source:c:\users\biblioteca-01\desktop\nueva carpeta\juego\menu.cpp
+	<iostream>
+	"menu.h"
+	"jugar.h"
+
+1751597975 source:c:\users\agust\onedrive\desktop\nueva carpeta\juego\jugar.cpp
+	<iostream>
+	"jugar.h"
+	"estadisticas.h"
+	<string>
+
+1751587661 c:\users\agust\onedrive\desktop\nueva carpeta\juego\jugar.h
+	<string>
+	"estadisticas.h"
+
+1751524649 source:c:\users\agust\onedrive\desktop\nueva carpeta\juego\main.cpp
+	<iostream>
+	<ctime>
+	"menu.h"
+
+1751387620 c:\users\agust\onedrive\desktop\nueva carpeta\juego\menu.h
+
+1751591915 source:c:\users\agust\onedrive\desktop\nueva carpeta\juego\menu.cpp
+	<iostream>
+	"menu.h"
+	"jugar.h"
+	"estadisticas.h"
+	"creditos.h"
+
+1751597967 source:c:\users\agust\onedrive\desktop\nueva carpeta\juego\estadisticas.cpp
+	<iostream>
+	<string>
+	"estadisticas.h"
+
+1751534600 c:\users\agust\onedrive\desktop\nueva carpeta\juego\estadisticas.h
+	<string>
+
+1751597967 source:c:\users\agust\onedrive\desktop\nueva carpeta\juego\creditos.cpp
+	<iostream>
+	"creditos.h"
+
+1751574578 c:\users\agust\onedrive\desktop\nueva carpeta\juego\creditos.h
+
