@@ -9,12 +9,12 @@ using namespace std;
 void menu()
 {
     // El vector para las estadisticas
-    const int TOP_JUGADORES = 6;
-    string mejoresJugadores[TOP_JUGADORES];
-    int mejoresPuntajes[TOP_JUGADORES];
+    const int cantidad = 6;
+    string nombresJugadores[cantidad];
+    int puntajesJugadores[cantidad];
 
     //inicializamos el vector en cero
-    ponerVectorCero(mejoresPuntajes, TOP_JUGADORES);
+    ponerVectorCero(puntajesJugadores, cantidad);
 
     int opcion;
     bool salir = false;
@@ -44,7 +44,7 @@ void menu()
             case 1:
         {
             system("cls");
-            gamePlay(mejoresJugadores, mejoresPuntajes, TOP_JUGADORES);
+            gamePlay(nombresJugadores, puntajesJugadores, cantidad);
             system("pause");
             break;
 
@@ -56,7 +56,7 @@ void menu()
 
         {
             system("cls");
-            gamePlay2(mejoresJugadores, mejoresPuntajes, TOP_JUGADORES);
+            gamePlay2(nombresJugadores, puntajesJugadores, cantidad);
             system("pause");
             break;
         }
@@ -76,7 +76,7 @@ void menu()
         case 2:
         {
             cout << "ESTADISTICAS" << endl;
-            mostrarEstadisticas(mejoresJugadores,mejoresPuntajes);
+            mostrarEstadisticas(nombresJugadores,puntajesJugadores);
             system("pause");
         }
         break;
